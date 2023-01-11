@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1635578422 source:c:\users\mehmet\desktop\assignment 5 - hash\intsllist.cpp
+	<iostream>
+	"intSLList.h"
+
+1635577778 c:\users\mehmet\desktop\assignment 5 - hash\intsllist.h
+
+1640611115 source:c:\users\mehmet\desktop\assignment 5 - hash\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+	"intSLList.h"
+
