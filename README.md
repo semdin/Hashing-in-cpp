@@ -17,3 +17,5 @@ Let’s assume that you have values 5, 9, 23, 4, 78, 8, 42, 7, 1, 271, 251, 420 
 9: 9<br>
 
 Simply, takes modulus of these variables and puts them accordingly. Therefore, if you look up for 251, you simply 251 % 10 and get 1 and only check 1’s to find 251 for a much higher search speed. This is a simple hash table application.
+
+selam
