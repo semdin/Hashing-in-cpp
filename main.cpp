@@ -1,5 +1,6 @@
 #include <iostream>
 #include <string>
+#include <algorithm>
 
 // Well, power operation in C++ requires this library.
 // I'm pretty sure you'll find out why the power operation would be required.
